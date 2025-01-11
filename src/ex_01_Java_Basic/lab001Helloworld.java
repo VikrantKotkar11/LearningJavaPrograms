@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
-public class Javaname {
+public class lab001Helloworld {
     public static void main(String[] args) {
-        System.out.println("Hello Vikrant!");
+        System.out.println("Hello World!");
     }
 }
