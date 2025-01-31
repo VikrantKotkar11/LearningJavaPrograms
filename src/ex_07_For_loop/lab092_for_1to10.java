@@ -1,8 +1,9 @@
 package ex_07_For_loop;
 
-public class lab99_for_tableof9 {
+public class lab092_for_1to10 {
     public static void main(String[] args) {
-        for(int i=9; i<=90; i=i+9)
+
+        for (int i=1;i<=10;i++)
         {
             System.out.println(i);
         }

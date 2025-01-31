@@ -1,6 +1,6 @@
 package ex_07_For_loop;
 
-public class lab95_for_ifelse {
+public class lab095_for_ifelse {
     public static void main(String[] args) {
         for(int age=1;age<18;age++) {
             System.out.println("Age:"+age);

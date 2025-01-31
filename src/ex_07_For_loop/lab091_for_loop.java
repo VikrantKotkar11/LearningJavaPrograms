@@ -1,6 +1,6 @@
 package ex_07_For_loop;
 
-public class lab91_for_loop {
+public class lab091_for_loop {
     public static void main(String[] args) {
         //print first 10 digits..
 
